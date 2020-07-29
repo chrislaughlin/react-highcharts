@@ -1,5 +1,5 @@
 {
-  "name": "@chrislaughlin/react-highcharts",
+  "name": "react-highcharts",
   "version": "16.1.0",
   "description": "React wrapper for highcharts",
   "main": "dist/ReactHighcharts.js",
